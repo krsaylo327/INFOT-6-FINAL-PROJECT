@@ -1,0 +1,3 @@
+[submodule "modesto/modesto/NotesApp"]
+	path = modesto/modesto/NotesApp
+	url = https://github.com/Britch757/notes-app.git
