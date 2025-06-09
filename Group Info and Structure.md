@@ -22,8 +22,8 @@ Database & Data Handling
 +	Mongoose
 
 Authentication & Security
-•	bcrypt
-•	jsonwebtoken (JWT)
++	bcrypt
++	jsonwebtoken (JWT)
 ______________________________________________
 Leader: Kristen V. Modesto
 Members: Artaxerxes Garcia | Jules Nicole Mallo
