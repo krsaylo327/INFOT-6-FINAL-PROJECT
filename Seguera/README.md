@@ -72,3 +72,18 @@ appointment-website/
 ## License
 
 MIT 
+
+## PROGRAMMER 
+
+RALPH LOUISE SEGUERA
+
+## MEMBERS
+
+CHARLES DAVE CORTEZ
+ANGELA JAUOD
+CHRISTIAN ALLEN DELOS REYES
+KRISTEN MODESTO
+
+## DEMO VIDEO
+
+https://drive.google.com/file/d/11DYCE3BoQjE69LTc_96E_uep9hZBs_q9/view?usp=drive_link
