@@ -27,6 +27,8 @@ Authentication & Security
 
 ______________________________________________
 Leader: Kristen V. Modesto
+
 Members: Artaxerxes Garcia | Jules Nicole Mallo
+
 Section: BS INFO 3C
 
