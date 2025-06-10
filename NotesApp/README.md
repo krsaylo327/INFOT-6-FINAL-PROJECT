@@ -1,3 +1,5 @@
+App: Note App
+
 Frontend Libraries & Frameworks    
 +	React
 +	React Router
